@@ -1,6 +1,7 @@
 # Minessweeper
 
-## Built with Python and pygame
+## Built with Python and pygame - Logical Inference
+Program running:  https://youtu.be/ONzszehcBX0
 
 ## How to run
 
