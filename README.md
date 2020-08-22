@@ -3,6 +3,8 @@
 ## Built with Python and pygame - Logical Inference
 Program running:  https://youtu.be/ONzszehcBX0
 
+ AI that plays Minesweeper.
+
 ## How to run
 
 ```
@@ -11,4 +13,4 @@ python runner.py
 
 ```
 
- AI that plays Minesweeper.
+
